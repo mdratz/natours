@@ -10,7 +10,3 @@ Udemy Advanced CSS &amp; Flexbox Project
 ### Project Material from
 
 > [Jonas Schmedtmann](https://www.udemy.com/advanced-css-and-sass/?couponCode=GITHUB4)
-
-### Orignal Repistory Available
-
-> [Fhoke](https://www.fhoke.com/)
