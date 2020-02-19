@@ -5,7 +5,7 @@ Udemy Advanced CSS &amp; Flexbox Project
 
 ## Repository Updates by 
 
-> Michael Ratz
+> David Ratz
 
 ### Project Material from
 
